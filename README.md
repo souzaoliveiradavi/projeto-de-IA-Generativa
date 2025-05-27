@@ -29,6 +29,6 @@ Canva (edição final da imagem e elementos visuais)
 
 O resultado foi uma imagem detalhada e realista que parece uma foto tirada no futuro. Enganou várias pessoas nas redes sociais que acharam que era um lugar real.
 
-💭 Reflexão (Opcional)
+💭 Reflexão 
 
 Criar algo “natty” com IA é mais fácil do que parece — mas fazer parecer autêntico exige atenção aos detalhes. Esse desafio me fez perceber o poder e a responsabilidade de usar IA para criar conteúdo convincente.
